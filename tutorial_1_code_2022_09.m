@@ -51,7 +51,7 @@ false_positive_number = 0
 for j = 1:sample_number
     if test_result(j,1) == 1 & test_result(j,1) ~= (disease_distribution(j,1))
         false_positive_number = false_positive_number + 1
-        disp("yes")
+        
     end
 end
 false_positive_percentage = false_positive_number/sample_number
