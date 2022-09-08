@@ -4,8 +4,7 @@ clear
 %operating via frequentist approach: given that the null hypothesis (person
 %does not have HIV) is true, how likely is it that this data (a positive
 %result)will happen?
-%Answer: yes, p=.05 because all that the frequentist approach is based on
-%is the false positive rate of 0.05 (not based on priors)
+%Answer:not statistically significant because p=.05 is not <.05
 
 
 %exercise 2
