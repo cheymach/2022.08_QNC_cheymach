@@ -1,1 +1,4 @@
 #this is the "messy" code that I actually used to generate my figures for the presentation. It is adapted from DIY transcriptomics pipeline for RNA Seq processing: https://diytranscriptomics.com/
+#there are separate files becaues that is how DIY transcriptomics is structured, and therefore it contains extra code beyond what I needed for my figures
+#Please note that I was trouble-shooting my heatmap (trying to adjust margins, etc) and therefore the code for that figure specifically likely has some differences from the code supplied here
+# Please see my "clean" consolidated code for the a clearer, more streamlined version of my code created after the presentation, in a single script.  
